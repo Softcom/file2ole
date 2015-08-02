@@ -7,3 +7,7 @@ The project has its runtime linked statically, so no install of runtime environm
 The input and output files are both specified by command line arguments. They have to be absolute file paths to work correctly in any environment.
 
 Tested on several Windows 7 machines (physical/virtual, domain/standalone, (non-)administrator user).
+
+
+## Latest Releases
+For more information please visit the latest Release Page: https://github.com/Softcom/file2ole/releases
