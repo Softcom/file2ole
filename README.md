@@ -1,7 +1,5 @@
 # file2ole
 
-[![Join the chat at https://gitter.im/Softcom/file2ole](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Softcom/file2ole?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Create OLE2 binary wrapper for any kind of file with C++ on Windows.
 
 The project has its runtime linked statically, so no install of runtime environment (VC++) is needed.
